@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working as a front-end developer
 - 🌱 I’m currently learning React.js, TypeScript and Node.js
-- 😄 Pronouns: She/Her
+- 😄 Pronouns: He/Him
 
 <div align="center">
   <a href="https://github.com/weslybrandao">
